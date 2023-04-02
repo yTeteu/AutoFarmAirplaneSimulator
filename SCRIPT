@@ -29,5 +29,5 @@ end)
 
 CreditsSection:NewLabel("Organizado Por: Teteu#7846")
 CreditsSection:NewLabel("Testado Por: Teteu#7846")
-CreditsSection:NewLabel("Criador Do Auto Farm: Marco8642")
+CreditsSection:NewLabel("Criador Do Auto Farm: Marco Polo#3842")
 CreditsSection:NewLabel("Criador Do Anti Afk: jdm.if#6266")
